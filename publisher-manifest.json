@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "160bebf85d41689c748d80a8",
+  "owner": "qeuasaj",
+  "repo": "page-8992926e9687b5391edf1ea7",
+  "title": "Realnode加速器(Realnode)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8992926e9687b5391edf1ea7",
+      "a": "Realnode加速器(Realnode)",
+      "b": "",
+      "entity": "Realnode加速器(Realnode)",
+      "brand": "Realnode加速器(Realnode)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e2a064f9b014d59ffdc43c4b644aa03306dc4d410d07bdbf527a84f3e772236f",
+      "content": {
+        "keyword1": "Realnode加速器(Realnode)",
+        "keyword2": "",
+        "primary_entity": "Realnode加速器(Realnode)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Realnode加速器(Realnode)为您提供高品质的网络加速服务，拥有深海蓝主题的专业视觉体验、阶梯式套餐配置与主题分组FAQ，助您畅连全球网络。",
+          "AI_DESCRIPTION": "Realnode加速器(Realnode)为您提供高品质的网络加速服务，拥有深海蓝主题的专业视觉体验、阶梯式套餐配置与主题分组FAQ，助您畅连全球网络。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-deep: #0B132B;--bg-card: #1C2541;--text-main: #FFFFFF;--text-muted: #8D99AE;--accent: #FFB703;--accent-hover: #FB8500;--border-color: #3A506B}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-deep);color: var(--text-main);font-family: system-ui, -apple-system, sans-serif;line-height: 1.6}\nheader {border-bottom: 1px solid var(--border-color);background: rgba(11, 19, 43, 0.95);position: sticky;top: 0;z-index: 100}\n.nav-container {max-width: 1200px;margin: 0 auto;padding: 1rem 2rem;display: flex;justify-content: space-between;align-items: center;flex-wrap: wrap;gap: 1rem}\n.breadcrumb {font-size: 0.85rem;color: var(--text-muted)}\n.breadcrumb a {color: var(--accent);text-decoration: none}\n.nav-links {display: flex;gap: 1.5rem;list-style: none;font-size: 0.9rem}\n.nav-links a {color: var(--text-main);text-decoration: none;transition: color 0.2s}\n.nav-links a:hover {color: var(--accent)}\nmain {max-width: 1200px;margin: 0 auto;padding: 3rem 2rem}\n.hero {margin-bottom: 4rem}\n.magazine-grid {display: grid;grid-template-columns: 2fr 1fr;gap: 2rem;align-items: start}\n@media (max-width: 768px) {\n  .magazine-grid {grid-template-columns: 1fr}\n}\n.hero-main h1 {font-size: 3rem;line-height: 1.2;margin-bottom: 1.5rem;color: var(--text-main)}\n.hero-main h1 span {color: var(--accent)}\n.lead-quote {font-size: 1.25rem;color: var(--text-muted);border-left: 4px solid var(--accent);padding-left: 1.5rem;margin-bottom: 2rem;font-style: italic}\n.hero-panel {background-color: var(--bg-card);border: 1px solid var(--border-color);padding: 2rem;border-radius: 4px}\n.hero-panel h3 {color: var(--accent);margin-bottom: 1rem;font-size: 1.2rem}\n.hero-panel p {color: var(--text-muted);font-size: 0.95rem;margin-bottom: 1.5rem}\n.btn {display: inline-block;background-color: var(--accent);color: var(--bg-deep);padding: 0.75rem 1.5rem;border-radius: 4px;text-decoration: none;font-weight: bold;transition: background-color 0.2s}\n.btn:hover {background-color: var(--accent-hover)}\nsection {margin-bottom: 5rem}\n.section-title {font-size: 2rem;margin-bottom: 2.5rem;border-bottom: 2px solid var(--border-color);padding-bottom: 0.5rem;display: inline-block}\n.plans-container {display: flex;flex-direction: column;gap: 1.5rem}\n.plan-card {background-color: var(--bg-card);border: 1px solid var(--border-color);padding: 2.5rem;position: relative;overflow: hidden;border-radius: 4px;margin-left: 0;transition: transform 0.2s, margin-left 0.2s}\n.plan-card:nth-child(2) {margin-left: 2rem;border-color: var(--accent)}\n.plan-card:nth-child(3) {margin-left: 4rem}\n@media (max-width: 768px) {\n  .plan-card, .plan-card:nth-child(2), .plan-card:nth-child(3) {margin-left: 0}\n}\n.plan-card .watermark {position: absolute;right: -1rem;bottom: -2rem;font-size: 8rem;font-weight: bold;color: rgba(255, 255, 255, 0.03);pointer-events: none}\n.plan-header {display: flex;justify-content: space-between;align-items: baseline;margin-bottom: 1.5rem;flex-wrap: wrap;gap: 1rem}\n.plan-name {font-size: 1.5rem;font-weight: bold}\n.plan-price {font-size: 1.75rem;color: var(--accent);font-weight: bold}\n.annual-note {font-size: 0.85rem;color: var(--text-muted);margin-bottom: 1.5rem}\n.features-list {list-style: none;margin-bottom: 2rem}\n.features-list li {margin-bottom: 0.75rem;color: var(--text-muted);position: relative;padding-left: 1.5rem}\n.features-list li::before {content: \"—\";position: absolute;left: 0;color: var(--accent)}\n.faq-group {margin-bottom: 3rem}\n.faq-group h3 {font-size: 1.3rem;color: var(--accent);margin-bottom: 1.5rem}\n.faq-item {background-color: var(--bg-card);border: 1px solid var(--border-color);padding: 1.5rem;margin-bottom: 1rem;border-radius: 4px}\n.faq-question {font-weight: bold;margin-bottom: 0.75rem;color: var(--text-main)}\n.faq-answer {color: var(--text-muted)}\nfooter {border-top: 1px solid var(--border-color);background-color: var(--bg-card);padding: 3rem 2rem;text-align: center;color: var(--text-muted);font-size: 0.9rem}\n</style><header>\n  <div class=\"nav-container\">\n    <div class=\"breadcrumb\">\n      <a href=\"#\">首页</a> &gt; <span>Realnode加速器(Realnode)</span>\n    </div>\n    <ul class=\"nav-links\">\n      <li><a href=\"#overview\">概览</a></li>\n      <li><a href=\"#features\">服务亮点</a></li>\n      <li><a href=\"#plans\">服务套餐</a></li>\n      <li><a href=\"#faq\">常见问题</a></li>\n    </ul>\n  </div>\n</header>\n\n<main>\n  <div class=\"hero\">\n    <div class=\"magazine-grid\">\n      <div class=\"hero-main\">\n        <h1>探索无界限的网络体验 <span>Realnode加速器(Realnode)</span></h1>\n        <div class=\"lead-quote\">\n          “您是否经常在跨境访问、高清流媒体传输或跨国协作中遭遇延迟与中断？Realnode加速器(Realnode)以精细化调优的专线网络，为您重塑流畅、稳定的数字世界。”\n        </div>\n        <p>\n          我们深知稳定性和速度对于每一位用户的核心价值。通过深度优化节点架构与专属传输通道，Realnode加速器(Realnode)旨在解决各类日常网络阻碍，让数据传输如丝般顺滑。\n        </p>\n      </div>\n      <div class=\"hero-panel\">\n        <h3>快速导航</h3>\n        <p>通过下方链接快速查阅您所关注的服务详情与价格阶梯：</p>\n        <ul>\n          <li><a href=\"#plans\">&gt; 查看阶梯套餐</a></li>\n          <li><a href=\"#faq-getting-started\">&gt; 如何开始使用</a></li>\n          <li><a href=\"#faq-technical\">&gt; 技术与节点支持</a></li>\n        </ul>\n      </div>\n    </div>\n  </div>\n\n  <section id=\"overview\">\n    <h2 class=\"section-title\">核心服务说明</h2>\n    <div>\n      <p>\n        为什么选择 Realnode加速器(Realnode)？我们不仅提供高速的数据通道，更关注每一位用户的实际连接质感。无论您是日常信息检索、远程办公，还是需要跨区域流畅访问特定数字内容，我们都能针对性地为您匹配最适合的节点链路。\n      </p>\n      <p>\n        所有套餐均支持多种常见客户端与设备，用户可以在指引下轻松完成配置并接入专属网络环境。\n      </p>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2 class=\"section-title\">服务套餐展示</h2>\n    <div class=\"plans-container\">\n      \n      <div class=\"plan-card\">\n        <div class=\"watermark\">01</div>\n        <div class=\"plan-header\">\n          <div class=\"plan-name\">基础版</div>\n          <div class=\"plan-price\">¥15/月</div>\n        </div>\n        <div class=\"annual-note\">按年付仅需 ¥150/年</div>\n        <ul class=\"features-list\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择基础版</a>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"watermark\">02</div>\n        <div class=\"plan-header\">\n          <div class=\"plan-name\">旗舰版（推荐）</div>\n          <div class=\"plan-price\">¥35/月</div>\n        </div>\n        <div class=\"annual-note\">按年付仅需 ¥350/年</div>\n        <ul class=\"features-list\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择旗舰版</a>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"watermark\">03</div>\n        <div class=\"plan-header\">\n          <div class=\"plan-name\">团队版</div>\n          <div class=\"plan-price\">¥85/月</div>\n        </div>\n        <div class=\"annual-note\">按年付仅需 ¥850/年</div>\n        <ul class=\"features-list\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">选择团队版</a>\n      </div>\n\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2 class=\"section-title\">常见问题解答</h2>\n\n    <div class=\"faq-group\" id=\"faq-getting-started\">\n      <h3>新手引导与使用</h3>\n      \n      <div class=\"faq-item\">\n        <div class=\"faq-question\">我该如何开始使用 Realnode加速器(Realnode)？</div>\n        <div class=\"faq-answer\">您可以先选择适合您需求的套餐完成订阅，随后在后台获取专属的订阅链接或配置文件，导入到您常用的客户端中即可一键连接。</div>\n      </div>\n\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">购买套餐后支持在多少台设备上同时使用？</div>\n        <div class=\"faq-answer\">设备在线数量取决于您所购买的套餐级别。例如基础版支持 3 台设备，旗舰版支持 5 台设备，团队版则支持最多 20 台设备同时在线。</div>\n      </div>\n    </div>\n\n    <div class=\"faq-group\" id=\"faq-technical\">\n      <h3>技术与线路说明</h3>\n      \n      <div class=\"faq-item\">\n        <div class=\"faq-question\">什么是 IPLC 专线游戏加速优化？</div>\n        <div class=\"faq-answer\">IPLC（国际私有专线电路）不经过公共互联网，延迟极低且抗干扰能力强。旗舰版及以上套餐提供此项优化，旨在为跨国游戏和高实时性需求提供更好的网络保障。</div>\n      </div>\n\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">普通节点与 VIP 专属节点有什么区别？</div>\n        <div class=\"faq-answer\">普通节点可满足日常常规浏览需求；而 VIP 专属高带宽节点和 IPLC 专线在带宽冗余、并发承载以及峰值速度上拥有更高规格的资源配置。</div>\n      </div>\n    </div>\n\n  </section>\n</main>\n\n<footer>\n  <p>© Realnode加速器(Realnode) 保留所有权利。本页面内容仅供产品展示与服务说明使用。</p>\n</footer>",
+          "hash": "7a56147b135263f64342b75f799159f8451a590195bcc23afcf6fceeddd8bf8c",
+          "seo": {
+            "title": "Realnode加速器(Realnode) - 高性能专线加速与节点服务",
+            "keywords": "Realnode, Realnode加速器, 专线加速, IPLC节点, 网络加速器",
+            "description": "Realnode加速器(Realnode)为您提供高品质的网络加速服务，拥有深海蓝主题的专业视觉体验、阶梯式套餐配置与主题分组FAQ，助您畅连全球网络。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "8362",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "longanrc.cn",
+    "host": "p-d6aa6e38ec.longanrc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "fc131e4c6268e9f9cbba8db4abcd467da42c07d6b54932aa52f59beb3df05709",
+    "sitemap.xml": "a162f1d734d897b017e962ba6f568b4012b755290870c762847aaf5b8897a123",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "61f4ad9456647ed16fa2fd2849a3d2dfbc33d4b8374b698e834330459d2e2fc8",
+    "robots.txt": "88b21ccd562548ecb77576ae51c62ca182ca9d536731b1eba0e6c8998110b24f",
+    "d729b32787d5e0c9602ef87298dc203c.txt": "821c90d3a9436b3edcb6096917b819ed297a58506972172d0364aa3e7bad63ed"
+  },
+  "revision": "2ae13cfdc7b9e7b0d3accc26e8ebba4ac27e27f32052b456335a71aed7011806"
+}
